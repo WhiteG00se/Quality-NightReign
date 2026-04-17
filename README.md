@@ -2,6 +2,7 @@
 
 - Seamless Co-op (Nightreign) https://www.nexusmods.com/eldenringnightreign/mods/3?tab=files
 
+- EldenModLoader https://github.com/techiew/EldenRingModLoader/releases
 
 # how to use
 
