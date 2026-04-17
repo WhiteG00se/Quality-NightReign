@@ -4,6 +4,8 @@
 
 - EldenModLoader https://github.com/techiew/EldenRingModLoader/releases
 
+- NightReign FPS Unlocker and FOV Tweak https://www.nexusmods.com/eldenringnightreign/mods/78?tab=files
+
 # how to use
 
 - It’s recommended to set the game's language to English
