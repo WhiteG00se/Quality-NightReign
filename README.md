@@ -6,6 +6,8 @@
 
 - NightReign FPS Unlocker and FOV Tweak https://www.nexusmods.com/eldenringnightreign/mods/78?tab=files
 
+- nightreign-ultrawidefix (change res ingame to apply) https://github.com/adam-gdovin/nightreign-ultrawidefix/releases
+
 # how to use
 
 - It’s recommended to set the game's language to English
