@@ -8,6 +8,8 @@
 
 - nightreign-ultrawidefix (change res ingame to apply) https://github.com/adam-gdovin/nightreign-ultrawidefix/releases
 
+- Storm Control https://www.nexusmods.com/eldenringnightreign/mods/146?tab=files
+
 # how to use
 
 - It’s recommended to set the game's language to English

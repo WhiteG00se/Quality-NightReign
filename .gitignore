@@ -94,3 +94,5 @@ sd/sd_dlc01.bhd
 /SeamlessCoop/crashdumps
 mod_loader_log.txt
 mods/UltrawideFix/log.txt
+imgui.ini
+mods/StormControl/log.txt
