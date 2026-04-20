@@ -4,6 +4,8 @@
 
 - This mod is not compatible with Steam save game cloud sync
 
+- start modded game via "nrsc_launcher.exe", starting via steam will launch without mods
+
 ## recommended install ([Video Guide](https://www.youtube.com/watch?v=tZPNiCnPswU))
 
 - Install a Git client. Recommended: [GitHub Desktop](https://desktop.github.com) (no account needed)
