@@ -4,7 +4,7 @@
 
 - This mod is not compatible with Steam save game cloud sync
 
-- start modded game via "nrsc_launcher.exe", starting via steam will launch without mods
+- start modded game via "\_launch_modded.bat", starting via steam will launch without mods
 
 ## recommended install ([Video Guide](https://www.youtube.com/watch?v=tZPNiCnPswU))
 
@@ -23,9 +23,11 @@
 
 ## included 3rd Party Mods
 
-- [Seamless Co-op (Nightreign)](https://www.nexusmods.com/eldenringnightreign/mods/3?tab=files)
+- [ModEngine 3](https://github.com/garyttierney/me3)
 
 - [EldenModLoader](https://github.com/techiew/EldenRingModLoader/releases)
+
+- [Seamless Co-op (Nightreign)](https://www.nexusmods.com/eldenringnightreign/mods/3?tab=files)
 
 - [NightReign FPS Unlocker and FOV Tweak](https://www.nexusmods.com/eldenringnightreign/mods/78?tab=files)
 
@@ -37,3 +39,6 @@
 
 - mods\StormControl\config.ini needs "default=0.0" for hosts and "default=1.0" for clients to lower the sync latency
 - I'm considering to add "More Map Variations", but it needs DLC https://www.nexusmods.com/eldenringnightreign/mods/578
+- Future updates
+  - me3: download Windows portable zip, replace me3\me3.exe, me3\me3-launcher.exe, me3\me3_mod_host.dll with the new versions. Leave nightreign-default.me3 and \_launch_modded.bat alone
+  - Seamless Co-op (Nightreign): Back up SeamlessCoop\nrsc_settings.ini first. Download the new release, overwrite the SeamlessCoop\ folder and nrsc_launcher.exe, then restore your nrsc_settings.ini

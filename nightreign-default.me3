@@ -1,0 +1,12 @@
+profileVersion = "v1"
+
+[[supports]]
+game = "nightreign"
+
+[[natives]]
+path = 'SeamlessCoop/nrsc.dll'
+load_early = true
+
+[[package]]
+id = "default-mods"
+path = 'mod'
