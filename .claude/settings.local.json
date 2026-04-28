@@ -18,7 +18,8 @@
       "Bash(git check-ignore *)",
       "Bash(\"./me3/me3.exe\" launch *)",
       "Bash(./_launch_quality_mod.bat *)",
-      "Bash(cmd.exe *)"
+      "Bash(cmd.exe *)",
+      "WebSearch"
     ]
   }
 }
