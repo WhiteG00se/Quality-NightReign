@@ -29,6 +29,8 @@
 
 - [Seamless Co-op (Nightreign)](https://www.nexusmods.com/eldenringnightreign/mods/3?tab=files)
 
+- [Nightreign CE Table](https://www.nexusmods.com/eldenringnightreign/mods/127?tab=files)
+
 - [NightReign FPS Unlocker and FOV Tweak](https://www.nexusmods.com/eldenringnightreign/mods/78?tab=files)
 
 - [nightreign-ultrawidefix (change res to apply)](https://github.com/adam-gdovin/nightreign-ultrawidefix/releases)
