@@ -16,7 +16,9 @@
       "Bash(./me3/me3.exe launch *)",
       "Bash(./me3/me3.exe profile *)",
       "Bash(git check-ignore *)",
-      "Bash(\"./me3/me3.exe\" launch *)"
+      "Bash(\"./me3/me3.exe\" launch *)",
+      "Bash(./_launch_quality_mod.bat *)",
+      "Bash(cmd.exe *)"
     ]
   }
 }
