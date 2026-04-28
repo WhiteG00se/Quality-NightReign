@@ -14,7 +14,8 @@
       "Bash(unzip -j -o me3-windows-amd64.zip \"bin/me3.exe\" \"bin/me3-launcher.exe\" \"bin/me3_mod_host.dll\" -d \"D:/Games/Steam/steamapps/common/ELDEN RING NIGHTREIGN/Game/me3/\")",
       "Bash(./me3/me3.exe --help)",
       "Bash(./me3/me3.exe launch *)",
-      "Bash(./me3/me3.exe profile *)"
+      "Bash(./me3/me3.exe profile *)",
+      "Bash(git check-ignore *)"
     ]
   }
 }
