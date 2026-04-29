@@ -1,0 +1,4 @@
+## change the relic slots of all vessels to white;
+param AntiqueStandParam: id .*: relicSlot1: = 4;
+param AntiqueStandParam: id .*: relicSlot2: = 4;
+param AntiqueStandParam: id .*: relicSlot3: = 4;
