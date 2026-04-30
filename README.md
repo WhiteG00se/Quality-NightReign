@@ -39,6 +39,8 @@
 
 - [Change Start Equipment (outdating, patching it myself)](https://www.nexusmods.com/eldenringnightreign/mods/483?tab=files)
 
+- ERN Valid Relic Rolls Table Consultor (https://www.nexusmods.com/eldenringnightreign/mods/270?tab=files)
+
 ## Notes just for developers
 
 - mods\StormControl\config.ini needs "default=0.0" for hosts and "default=1.0" for clients to lower the sync latency
