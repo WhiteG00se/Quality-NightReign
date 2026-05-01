@@ -37,7 +37,7 @@
 
 - [Storm Control](https://www.nexusmods.com/eldenringnightreign/mods/146?tab=files)
 
-- [Change Start Equipment (outdating, patching it myself)](https://www.nexusmods.com/eldenringnightreign/mods/483?tab=files)
+- [Change Start Equipment (outdated, files to maintain it are in "tobi_src")](https://www.nexusmods.com/eldenringnightreign/mods/483?tab=files)
 
 - [ERN Valid Relic Rolls Table Consultor](https://www.nexusmods.com/eldenringnightreign/mods/270?tab=files)
 
