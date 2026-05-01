@@ -39,7 +39,7 @@
 
 - [Change Start Equipment (outdating, patching it myself)](https://www.nexusmods.com/eldenringnightreign/mods/483?tab=files)
 
-- ERN Valid Relic Rolls Table Consultor (https://www.nexusmods.com/eldenringnightreign/mods/270?tab=files)
+- [ERN Valid Relic Rolls Table Consultor](https://www.nexusmods.com/eldenringnightreign/mods/270?tab=files)
 
 ## Notes just for developers
 
