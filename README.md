@@ -44,6 +44,7 @@
 ## Notes just for developers
 
 - mods\StormControl\config.ini needs "default=0.0" for hosts and "default=1.0" for clients to lower the sync latency
+- the regulation.bin in root is just for tracking it, it's unchanged
 - I'm considering to add "More Map Variations", but it needs DLC https://www.nexusmods.com/eldenringnightreign/mods/578
 - Future updates
   - me3: download Windows portable zip, replace me3\me3.exe, me3\me3-launcher.exe, me3\me3_mod_host.dll with the new versions. Leave nightreign-default.me3 and \_launch_quality_mod.bat alone
