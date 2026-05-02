@@ -1,4 +1,12 @@
-## change the relic slots of all vessels to white;
+## copy without comments
+
+## change the relic slots of all vessels to white
 param AntiqueStandParam: id .*: relicSlot1: = 4;
 param AntiqueStandParam: id .*: relicSlot2: = 4;
 param AntiqueStandParam: id .*: relicSlot3: = 4;
+
+## price of Scenic Flatstone (random relic) from 600
+## because they sell for 550 Murk with maxed rolls from the other mod
+param ShopLineupParam: id 10110: value: = 1100;
+param ShopLineupParam: id 10112: value: = 1100;
+param ShopLineupParam: id 10114: value: = 1100;
