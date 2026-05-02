@@ -45,7 +45,7 @@
 
 ## Notes just for developers
 
-- mods\StormControl\config.ini needs "default=0.0" for hosts and "default=1.0" for clients to lower the sync latency
+- mods\StormControl\config.ini can be set to "default=0.0" for hosts and "default=1.0" for clients to lower the sync latency
 - the regulation.bin in root is just for tracking it, it's unchanged
 - I'm considering to add "More Map Variations", but it needs DLC https://www.nexusmods.com/eldenringnightreign/mods/578
 - Future updates
