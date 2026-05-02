@@ -6,6 +6,8 @@
 
 - start modded game via "\_launch_quality_mod.bat", starting via steam will launch without mods
 
+- when or after creating a new character, start the game once without a "\mod\event" folder, talk with Small Jar Bazaar, then close the game and restore the "\mod\event" folder
+
 ## recommended install ([Video Guide](https://www.youtube.com/watch?v=tZPNiCnPswU))
 
 - Install a Git client. Recommended: [GitHub Desktop](https://desktop.github.com) (no account needed)
