@@ -5,8 +5,11 @@ param AntiqueStandParam: id .*: relicSlot1: = 4;
 param AntiqueStandParam: id .*: relicSlot2: = 4;
 param AntiqueStandParam: id .*: relicSlot3: = 4;
 
-## price of Scenic Flatstone (random relic) from 600
+## 0.1x all the value where costType = 4 (which is murk)
+param ShopLineupParam: prop costType 4 && proprange value 10 999999: value: * 0.1;
+
+## up price of Scenic Flatstone (random relic) from 600
 ## because they sell for 550 Murk with maxed rolls from the other mod
-param ShopLineupParam: id 10110: value: = 1100;
-param ShopLineupParam: id 10112: value: = 1100;
-param ShopLineupParam: id 10114: value: = 1100;
+param ShopLineupParam: id 10110: value: = 850;
+param ShopLineupParam: id 10112: value: = 850;
+param ShopLineupParam: id 10114: value: = 850;
