@@ -6,7 +6,7 @@
 
 - start modded game via "\_launch_quality_mod.bat", starting via steam will launch without mods
 
-- when or after creating a new character, start the game once without a "\mod\event" folder, talk with Small Jar Bazaar, then close the game and restore the "\mod\event" folder
+- {ignore because 'Change Start Equipment' is disabled}when or after creating a new character, start the game once without a "\mod\event" folder, talk with Small Jar Bazaar, then close the game and restore the "\mod\event" folder
 
 ## recommended install ([Video Guide](https://www.youtube.com/watch?v=tZPNiCnPswU))
 
@@ -39,7 +39,7 @@
 
 - [Storm Control](https://www.nexusmods.com/eldenringnightreign/mods/146?tab=files)
 
-- [Change Start Equipment (outdated, files to maintain it are in "tobi_src")](https://www.nexusmods.com/eldenringnightreign/mods/483?tab=files)
+- {disabled} [Change Start Equipment (outdated, files to maintain it are in "tobi_src")](https://www.nexusmods.com/eldenringnightreign/mods/483?tab=files)
 
 - [ERN Valid Relic Rolls Table Consultor](https://www.nexusmods.com/eldenringnightreign/mods/270?tab=files)
 
