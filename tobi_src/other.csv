@@ -10,12 +10,14 @@ param ShopLineupParam: prop costType 4 && proprange value 10 999999: value: * 0.
 
 ## up price of Scenic Flatstone (random relic) from 600
 ## because they sell for 550 Murk with maxed rolls from the other mod
+## buy for 10x price if you wanna use the editor once
 param ShopLineupParam: id 10110: value: = 850;
-param ShopLineupParam: id 10112: value: = 850;
+param ShopLineupParam: id 10112: value: = 8500;
 param ShopLineupParam: id 10114: value: = 850;
 
 ## lower price of Deep Scenic Flatstone (random relic) from 1800
 ## keep in mind they sell for 1100 Murk with maxed rolls from the other mod
+## buy for 10x price if you wanna use the editor once
 param ShopLineupParam: id 10111: value: = 1500;
-param ShopLineupParam: id 10113: value: = 1500;
+param ShopLineupParam: id 10113: value: = 15000;
 param ShopLineupParam: id 10115: value: = 1500;
